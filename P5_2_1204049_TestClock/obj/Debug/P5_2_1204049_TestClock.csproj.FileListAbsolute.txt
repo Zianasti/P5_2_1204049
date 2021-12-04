@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\P5_2_1204049\P5_2_1204049_TestClock\bin\Debug\P5_2_1204049_TestClock.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\P5_2_1204049\P5_2_1204049_TestClock\bin\Debug\P5_2_1204049_TestClock.exe
+c:\users\asus\documents\visual studio 2015\Projects\P5_2_1204049\P5_2_1204049_TestClock\bin\Debug\P5_2_1204049_TestClock.pdb
+c:\users\asus\documents\visual studio 2015\Projects\P5_2_1204049\P5_2_1204049_TestClock\bin\Debug\P5_2_1204049.dll
+c:\users\asus\documents\visual studio 2015\Projects\P5_2_1204049\P5_2_1204049_TestClock\bin\Debug\P5_2_1204049.pdb
+c:\users\asus\documents\visual studio 2015\Projects\P5_2_1204049\P5_2_1204049_TestClock\obj\Debug\P5_2_1204049_TestClock.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\P5_2_1204049\P5_2_1204049_TestClock\obj\Debug\P5_2_1204049_TestClock.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\P5_2_1204049\P5_2_1204049_TestClock\obj\Debug\P5_2_1204049_TestClock.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\P5_2_1204049\P5_2_1204049_TestClock\obj\Debug\P5_2_1204049_TestClock.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\P5_2_1204049\P5_2_1204049_TestClock\obj\Debug\P5_2_1204049_TestClock.exe
+c:\users\asus\documents\visual studio 2015\Projects\P5_2_1204049\P5_2_1204049_TestClock\obj\Debug\P5_2_1204049_TestClock.pdb
